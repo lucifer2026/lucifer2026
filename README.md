@@ -1,20 +1,26 @@
-# Hi there, I'm C Sankeerth! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=C%20SANKEERTH&fontSize=70&animation=fadeIn" />
 
-### 🚀 Aspiring Cybersecurity Analyst | Software Developer | Full-Stack Enthusiast
+  ### 🛡️ Cybersecurity Analyst | 💻 Software Developer | 🎓 B.Tech CS
+  *“Building the future, securing the present.”*
 
-I am a Computer Science student at **Woxsen University** with a passion for building secure, efficient, and scalable digital solutions. My work bridges the gap between **robust software development** and **proactive cybersecurity defense**.
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  </p>
+</div>
 
 ---
 
 ### 🛡️ Cybersecurity & Defense
-* [cite_start]**Active Role:** Currently serving as a **Cybersecurity Analyst/Executive** at Baudhik, focusing on IPR protocols and technical compliance[cite: 17, 18, 19, 20].
-* [cite_start]**Virtualization:** Architected a **Cybersecurity Home Lab** to simulate network attacks and master deep packet analysis[cite: 28, 30, 32].
-* [cite_start]**Threat Hunting:** Experienced in monitoring threat patterns and identifying vulnerabilities in unauthorized access scenarios[cite: 31].
+* **Active Role:** Currently serving as a **Cybersecurity Analyst/Executive** at Baudhik, focusing on IPR protocols and technical compliance.
+* **Virtualization:** Architected a **Cybersecurity Home Lab** to simulate network attacks and master deep packet analysis.
+* **Threat Hunting:** Experienced in monitoring threat patterns and identifying vulnerabilities in unauthorized access scenarios.
 
 ### 💻 Development & Engineering
-* [cite_start]**Full-Stack Freelancing:** Designing and deploying end-to-end web applications with a focus on high-conversion UI/UX[cite: 22, 25, 26].
-* [cite_start]**Algorithmic Logic:** Developed **Mini Maps**, a navigation simulator using Dijkstra’s and A* pathfinding algorithms in Java[cite: 33, 35].
-* [cite_start]**Persistence:** Built a **Habit Tracker** application using MongoDB with secure user authentication and automated streak logic[cite: 38, 40, 42].
+* **Full-Stack Freelancing:** Designing and deploying end-to-end web applications with a focus on high-conversion UI/UX.
+* **Algorithmic Logic:** Developed **Mini Maps**, a navigation simulator using Dijkstra’s and A* pathfinding algorithms in Java.
+* **Persistence:** Built a **Habit Tracker** application using MongoDB with secure user authentication and automated streak logic.
 
 ---
 
@@ -22,36 +28,34 @@ I am a Computer Science student at **Woxsen University** with a passion for buil
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, SQL, JavaScript, HTML/CSS [cite: 6, 13] |
-| **Frameworks** | [cite_start]React JS, Node JS [cite: 13] |
-| **Cybersecurity** | [cite_start]Vulnerability Assessment, SIEM Tools, Network Security, Home Lab Virtualization [cite: 13] |
-| **Cloud & Tools** | [cite_start]AWS Fundamentals, Cloud Computing, Git/GitHub, VS Code, Power BI [cite: 14] |
-| **Databases** | [cite_start]MongoDB, SQL [cite: 13, 39] |
+| **Languages** | Python, Java, SQL, JavaScript, HTML/CSS |
+| **Frameworks** | React JS, Node JS |
+| **Cybersecurity** | Vulnerability Assessment, SIEM Tools, Network Security, Home Lab Virtualization |
+| **Cloud & Tools** | AWS Fundamentals, Cloud Computing, Git/GitHub, VS Code, Power BI |
+| **Databases** | MongoDB, SQL |
 
 ---
 
 ### 📜 Certifications & Achievements
-* [cite_start]🎓 **Cyber Security Specialization** – Google (Coursera) [cite: 44]
-* [cite_start]☕ **Java Development** – Coursera [cite: 45]
-* [cite_start]☁️ **Cloud Computing** – Udemy [cite: 46]
-* [cite_start]🐍 **Python Certification** – Udemy [cite: 47]
-* [cite_start]☁️ **Basics of AWS Fundamentals** – Coursera [cite: 48, 49]
+* 🎓 **Cyber Security Specialization** – Google (Coursera)
+* ☕ **Java Development** – Coursera
+* ☁️ **Cloud Computing** – Udemy
+* 🐍 **Python Certification** – Udemy
+* ☁️ **Basics of AWS Fundamentals** – Coursera
 
 ---
 
 ### 🌎 Languages
-* **English** (Fluent) 🇬🇧
-* **Hindi** (Fluent) 🇮🇳
-* **Telugu** (Fluent) 🇮🇳
-* **Mandarin** (Beginner) 🇨🇳
+* **English** (Fluent) 🇬🇧 | **Hindi** (Fluent) 🇮🇳 | **Telugu** (Fluent) 🇮🇳 | **Mandarin** (Beginner) 🇨🇳
 
 ---
 
-### 📫 Let's Connect!
-* [cite_start]📍 **Location:** Hyderabad, India [cite: 2]
-* [cite_start]📧 **Email:** sanke2468@gmail.com [cite: 2]
-* 💼 [**LinkedIn**](Your-LinkedIn-URL-Here)
-* 🐙 [**GitHub**](Your-GitHub-URL-Here)
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <a href="mailto:sanke2468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
-*“Building the future, securing the present.”*
+  <br />
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=00d2ff&height=100&section=footer" />
+</div>
